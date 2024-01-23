@@ -1,3 +1,9 @@
+---
+ospool:
+  path: software_examples/r/tutorial-spills-R/README.md
+path:
+  path: 
+---
 # Analyzing .csv Chemical Spills Datasets 
 ### <i>An OSPool Tutorial</i>
 
