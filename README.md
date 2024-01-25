@@ -9,7 +9,9 @@ path:
 
 Spills of hazardous materials, like petroleum, mercury, and battery acid, that can impact water and land quality are required to be reported to the United State's government by law. In this tutorial, we will analyze records provided by the state of New York on occurances of spills of hazardous materials that occured from 1950 to 2019.
 
-The data used in this tutorial was collected from https://catalog.data.gov/dataset/spill-incidents/resource/a8f9d3c8-c3fa-4ca1-a97a-55e55ca6f8c0 and modified for teaching purposes. 
+The data used in this tutorial was collected from [https://catalog.data.gov/dataset/spill-incidents/resource/a8f9d3c8-c3fa-4ca1-a97a-55e55ca6f8c0](https://catalog.data.gov/dataset/spill-incidents/resource/a8f9d3c8-c3fa-4ca1-a97a-55e55ca6f8c0) and modified for teaching purposes. 
+
+To access all of the materials to complete this tutorial, first log into your OSPool access point and run the following command: `git clone https://github.com/OSGConnect/tutorial-spills-R/`.
 
 ## Step 1: Get to Know Hazardous Spills Dataset
 
