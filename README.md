@@ -38,7 +38,7 @@ ls
 
 We should see seven `.csv` files, one for each decade between 1950-2019.
 
-To explore the contents of these files, we can use commands like `head -n 5 <fileName>` to view the first 10 lines of our data files. 
+To explore the contents of these files, we can use commands like `head -n 5 <fileName>` to view the first 5 lines of our data files. 
 
 
 ```bash
