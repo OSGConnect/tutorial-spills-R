@@ -124,7 +124,15 @@ We just prepared and ran one job analyzing the `spills_1950_1959.csv` dataset! B
 To do so, we will update our submit file to use the `queue <variable> from <list>` syntax. But before we do this, we need to create a list of the files we want to queue a job for:  
 
 ```bash
-ls data/*.csv > list_of_datasets.txt
+cd data/
+```
+
+```bash
+ls *.csv > ../list_of_datasets.txt
+```
+
+```bash
+cd ../
 ```
 
 ```bash
