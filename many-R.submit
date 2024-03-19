@@ -1,4 +1,4 @@
-# File Name: R.submit
+# File Name: many-R.submit
 universe = container
 container_image = /cvmfs/singularity.opensciencegrid.org/opensciencegrid/osgvo-r:3.5.0
 
